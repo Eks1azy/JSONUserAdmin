@@ -1,0 +1,50 @@
+{
+    "eks1azy": {
+        "name": "Artem",
+        "surname": "Vluk",
+        "age": 17,
+        "password": "#####"
+    },
+    "Vadimko555": {
+        "name": "Vadim",
+        "surname": "Marcko",
+        "age": 18,
+        "password": "12345321"
+    },
+    "Vasilko": {
+        "name": "Vasil",
+        "surname": "Koal",
+        "age": 18,
+        "password": "23456"
+    },
+    "Artemmko": {
+        "name": "Artem",
+        "surname": "Vas",
+        "age": 15,
+        "password": "123124"
+    },
+    "vasilka": {
+        "name": "Vasya",
+        "surname": "Vasko",
+        "age": 123,
+        "password": "12312321"
+    },
+    "eks1": {
+        "name": "qwe",
+        "surname": "qwe",
+        "age": 12,
+        "password": "qwe"
+    },
+    "qweq": {
+        "name": "qwe",
+        "surname": "qwe",
+        "age": 12,
+        "password": null
+    },
+    "qwe": {
+        "name": "qwe",
+        "surname": "qwe",
+        "age": 12,
+        "password": "s_ddd#r@dd"
+    }
+}
